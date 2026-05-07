@@ -2,7 +2,5 @@
 
 
 def suma(a: int, b: int) -> int:
-    """ docstring function """
-    x = "no se usa"   # variable no usada → error pylint
+    """ Suma dos enteros y devuelve el resultado """
     return a + b
-# comentario extra
